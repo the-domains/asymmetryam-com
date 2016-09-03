@@ -1,20 +1,4 @@
-name: asymmetryam.com
-favicon: null
-layout_spectrum: 0.30998
 typography_spectrum: 0.6159
-title: ASYMMETRY ASSET MANAGEMENT
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0
   saturation: 0.9375
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.30998
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: asymmetryam.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Official website
+    url: 'http://www.asymmetryam.com'
+    type: external
+favicon: null
+title: ASYMMETRY ASSET MANAGEMENT
 purpose: []
